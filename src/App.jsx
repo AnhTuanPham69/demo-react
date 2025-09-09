@@ -10,6 +10,7 @@ function App() {
       <Header />
       <Body />
       <Footer />
+      <div>Login</div>
     </div>
   );
 }
